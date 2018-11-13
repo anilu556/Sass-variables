@@ -1,0 +1,15 @@
+*{
+	box-sizing: border-box;
+}
+
+$text-align: center;
+$color: green;
+$font-size: 30px;
+$margin-top: 50px;
+
+h1{
+	text-align: $text-align;
+	color: $color;
+	font-size: $font-size;
+	margin-top: $margin-top;
+}
